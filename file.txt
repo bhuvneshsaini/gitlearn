@@ -3,4 +3,19 @@ https://docs.google.com/document/d/1SKMLegfPHW6ihS7LDllzG1SK__9IWPDPcS4COEVfWvQ/
 
 https://docs.google.com/document/d/1SKMLegfPHW6ihS7LDllzG1SK__9IWPDPcS4COEVfWvQ/edit#heading=h.9fmc3489ptcr
 
+<<<<<<< HEAD
+<<<<<<< HEAD
 ####https://docs.google.com/document/d/1SKMLegfPHW6ihS7LDllzG1SK__9IWPDPcS4COEVfWvQ/edit?usp=sharing
+=======
+=======
+>>>>>>> 760c213 (commit 1)
+
+####https://docs.google.com/document/d/1SKMLegfPHW6ihS7LDllzG1SK__9IWPDPcS4COEVfWvQ/edit?usp=sharing
+
+
+###commit 1
+
+<<<<<<< HEAD
+>>>>>>> parent of 5ed6479 (commit 2)
+=======
+>>>>>>> 760c213 (commit 1)
